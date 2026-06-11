@@ -1,6 +1,6 @@
 # Hey there! I'm VANSHIT SINGH CHAUHAN 👋
  
-I'm a passionate **Full Stack Developer** (in progress 🚀) who loves building projects
+I'm a passionate **Full Stack Developer** who loves building projects
 that are clean, functional, and actually useful. I work with **HTML, CSS, JavaScript & SQL**
 on the frontend and database side, know **Java**, and I'm currently leveling up with
 **React.js & Express.js** to go full stack.
